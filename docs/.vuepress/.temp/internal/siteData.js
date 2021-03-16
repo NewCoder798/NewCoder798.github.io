@@ -1,5 +1,5 @@
 export const siteData = {
-  "base": "/newCoder798.github.io/",
+  "base": "/articles/",
   "lang": "en-US",
   "title": "",
   "description": "",
