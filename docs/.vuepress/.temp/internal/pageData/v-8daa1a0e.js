@@ -7,7 +7,16 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "filePathRelative": "README.md",
-  "git": {}
+  "git": {
+    "updatedTime": 1615877277000,
+    "contributors": [
+      {
+        "name": "macuiling",
+        "email": "macuiling1995@gmail.com",
+        "commits": 1
+      }
+    ]
+  }
 }
 
 if (import.meta.webpackHot) {
